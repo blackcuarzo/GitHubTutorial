@@ -15,7 +15,7 @@ Al final haré un resumen de las lineas de codigo necesarias para tener un repos
 # Cómo seguir este tutorial
 En el "How to do" hay información de cómo hacer cosas puntuales. La mayor parte de la información está contenida en esta sección.
 
-En los Ejemplos está lo básico de cómo crear un repositorio para un proyecto como el de fullstackOpen y cómo 
+En los Ejemplos está lo básico de cómo crear un repositorio para un proyecto como el de fullstackOpen y cómo subir los cambios o commits hechos para mantener tu GitHub actualizado y marcar desarrollo.
 
 Para navegar el documento, usar usar el Índice. 
 
