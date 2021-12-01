@@ -1,3 +1,9 @@
+# Índice
+ ^e4291a
+- [Ejemplos](#Ejemplos) 
+- [Resumen de manejo de Git](#Resumen%20de%20manejo%20de%20Git)
+- [How to do](#How%20to%20do)
+
 # Tutorial de Github
 
 Sean bienvenidos a este tutorial. El propósito aquí es describir las instrucciones mínimas necesarias para poder usar git y github para crear un historial de desarrollo y colaborar en el desarrollo de proyectos. 
@@ -13,12 +19,6 @@ Para navegar el documento, usar usar el Índice.
 
 Si tienen comentarios para mejorar la organización y/o redacción de este documento, agradezco sus aportes (idealmente por pull requests). 
 
-
-# Índice
- ^e4291a
-- [Ejemplos](#Ejemplos) 
-- [Resumen de manejo de Git](#Resumen%20de%20manejo%20de%20Git)
-- [How to do](#How%20to%20do)
 
 # Ejemplos
 
