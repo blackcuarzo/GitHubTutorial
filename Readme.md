@@ -15,6 +15,8 @@ Al final haré un resumen de las lineas de codigo necesarias para tener un repos
 # Cómo seguir este tutorial
 En el "How to do" hay información de cómo hacer cosas puntuales. La mayor parte de la información está contenida en esta sección.
 
+En los Ejemplos está lo básico de cómo crear un repositorio para un proyecto como el de fullstackOpen y cómo 
+
 Para navegar el documento, usar usar el Índice. 
 
 Si tienen comentarios para mejorar la organización y/o redacción de este documento, agradezco sus aportes (idealmente por pull requests). 
@@ -51,15 +53,23 @@ git add .
 git commit -m "First commit to add current proyect files"
 ```
 
-Luego cuando quiera montar el desarrollo en GitHub uso: 
+Luego conectar con GitHub uso: 
 
-```sh
+```bash
 git remote add origin <url repositorio remoto>
 git pull origin main --allow-unrelated-histories
 ```
 
+Cuando quiera subir cambios a Github:
+
+``` bash 
+git commit -am "mensaje del commit" # guardo mis cambios en el repositorio local
+git pull origin main # Para actualizar cambios hechos en el repositorio
+git push origin main # Para subir mis cambios locales a GitHub
+```
+
 Ejemplo con HTTPS: 
-```sh
+```bash
 git remote add origin https://github.com/blackcuarzo/FullStackOpen.git
 git pull origin main --allow-unrelated-histories
 git push origin main
