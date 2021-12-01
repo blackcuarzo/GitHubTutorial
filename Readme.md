@@ -14,14 +14,15 @@ Para navegar el documento, usar usar el Índice.
 Si tienen comentarios para mejorar la organización y/o redacción de este documento, agradezco sus aportes (idealmente por pull requests). 
 
 
-# Índice ^e4291a
-
+# Índice
+ ^e4291a
 - [Ejemplos](#Ejemplos) 
 - [Resumen de manejo de Git](#Resumen%20de%20manejo%20de%20Git)
 - [How to do](#How%20to%20do)
 
 # Ejemplos
-[Volver al index](#^e4291a)
+
+[Índice](#Índice)
 
 
 ## Ejemplo con proyecto existente
@@ -65,7 +66,7 @@ git push origin main
 ```
 
 # Resumen de manejo de Git: 
-[Volver al index](#^e4291a)
+[Índice](#Índice)
 
 Supongamos que vamos a implementar un proyecto sencillo para el seguimiento de un proyecto con varias carpetas y archivos. 
 
@@ -118,7 +119,7 @@ Cuando usamos el comando `git commit` sin el mensaje de commit, git nos abre una
 
 
 # How to do:
-[Volver al index](#^e4291a)
+[Índice](#Índice)
 
 **Previamente**
 - Crea una cuenta de github
